@@ -1,4 +1,5 @@
 # backend of PATROL
+[![Push-to-EC2](https://github.com/csci-578-group-project/backend/actions/workflows/github-actions-ec2.yml/badge.svg?event=push)](https://github.com/csci-578-group-project/backend/actions/workflows/github-actions-ec2.yml)
 
 This is a flask application providing RESTful APIs.
 
