@@ -1,4 +1,5 @@
 from flask_restx import Namespace, Resource, fields, reqparse
+import random
 
 api = Namespace('History', description='History data')
 
