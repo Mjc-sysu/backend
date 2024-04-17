@@ -12,7 +12,7 @@ def getData():
     today = datetime.datetime.today()
     return [
         {
-            'date': (today + datetime.timedelta(days=1)).timestamp(),
+            'date': (today + datetime.timedelta(days=i)).timestamp(),
             'count': math.ceil(random.uniform(1, 100))
         } for i in range(10)
     ]
