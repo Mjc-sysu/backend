@@ -1,0 +1,352 @@
+[
+    {
+        "id": 1,
+        "latitude": 34.171453649001,
+        "longitude": -118.48571326855634,
+        "source": "facebook",
+        "lastUpdated": "2024-01-10 22:39:46"
+    },
+    {
+        "id": 2,
+        "latitude": 34.26155599788805,
+        "longitude": -118.40006750290749,
+        "source": "facebook",
+        "lastUpdated": "2024-03-05 18:32:31"
+    },
+    {
+        "id": 3,
+        "latitude": 34.190658528873136,
+        "longitude": -118.36318260746232,
+        "source": "user report",
+        "lastUpdated": "2024-04-04 05:27:58"
+    },
+    {
+        "id": 4,
+        "latitude": 34.30122725742752,
+        "longitude": -118.19486835279926,
+        "source": "user report",
+        "lastUpdated": "2024-01-27 16:07:51"
+    },
+    {
+        "id": 5,
+        "latitude": 34.151735286650684,
+        "longitude": -118.31767385575448,
+        "source": "X",
+        "lastUpdated": "2024-01-28 03:35:45"
+    },
+    {
+        "id": 6,
+        "latitude": 34.30720910589445,
+        "longitude": -118.51554517350256,
+        "source": "user report",
+        "lastUpdated": "2024-01-13 08:25:43"
+    },
+    {
+        "id": 7,
+        "latitude": 34.14908827480989,
+        "longitude": -118.17893862627886,
+        "source": "facebook",
+        "lastUpdated": "2024-04-05 11:49:10"
+    },
+    {
+        "id": 8,
+        "latitude": 34.295751044031576,
+        "longitude": -118.49993440270961,
+        "source": "facebook",
+        "lastUpdated": "2024-03-22 18:16:35"
+    },
+    {
+        "id": 9,
+        "latitude": 34.069820989005414,
+        "longitude": -118.5510604153806,
+        "source": "user report",
+        "lastUpdated": "2024-04-11 05:44:19"
+    },
+    {
+        "id": 10,
+        "latitude": 34.29230353110903,
+        "longitude": -118.16427415932854,
+        "source": "facebook",
+        "lastUpdated": "2024-01-23 02:07:04"
+    },
+    {
+        "id": 11,
+        "latitude": 34.06157607256632,
+        "longitude": -118.35791155395178,
+        "source": "facebook",
+        "lastUpdated": "2024-02-02 06:50:13"
+    },
+    {
+        "id": 12,
+        "latitude": 34.13527778950685,
+        "longitude": -118.39249092712517,
+        "source": "user report",
+        "lastUpdated": "2024-03-31 01:16:08"
+    },
+    {
+        "id": 13,
+        "latitude": 34.05075405912924,
+        "longitude": -118.3634908116104,
+        "source": "X",
+        "lastUpdated": "2024-03-08 03:46:03"
+    },
+    {
+        "id": 14,
+        "latitude": 34.17958634555038,
+        "longitude": -118.33650579214839,
+        "source": "user report",
+        "lastUpdated": "2024-03-12 08:20:22"
+    },
+    {
+        "id": 15,
+        "latitude": 34.06693263011211,
+        "longitude": -118.33272718938015,
+        "source": "facebook",
+        "lastUpdated": "2024-03-02 02:36:36"
+    },
+    {
+        "id": 16,
+        "latitude": 34.18220337365592,
+        "longitude": -118.21074986056921,
+        "source": "facebook",
+        "lastUpdated": "2024-01-25 22:57:58"
+    },
+    {
+        "id": 17,
+        "latitude": 34.315399017245326,
+        "longitude": -118.38203620601452,
+        "source": "X",
+        "lastUpdated": "2024-02-13 07:56:48"
+    },
+    {
+        "id": 18,
+        "latitude": 34.316879775938226,
+        "longitude": -118.33337590994572,
+        "source": "facebook",
+        "lastUpdated": "2024-04-01 00:20:17"
+    },
+    {
+        "id": 19,
+        "latitude": 34.328607912614906,
+        "longitude": -118.45880755660504,
+        "source": "facebook",
+        "lastUpdated": "2024-01-31 02:18:26"
+    },
+    {
+        "id": 20,
+        "latitude": 34.29014038025392,
+        "longitude": -118.49615551856043,
+        "source": "X",
+        "lastUpdated": "2024-01-13 01:26:56"
+    },
+    {
+        "id": 21,
+        "latitude": 34.28054137377311,
+        "longitude": -118.33796427974657,
+        "source": "facebook",
+        "lastUpdated": "2024-02-06 04:59:24"
+    },
+    {
+        "id": 22,
+        "latitude": 34.1664574777961,
+        "longitude": -118.53681453334345,
+        "source": "user report",
+        "lastUpdated": "2024-02-18 15:13:57"
+    },
+    {
+        "id": 23,
+        "latitude": 34.20852945804826,
+        "longitude": -118.46824666089191,
+        "source": "X",
+        "lastUpdated": "2024-04-10 01:33:07"
+    },
+    {
+        "id": 24,
+        "latitude": 34.328896014528866,
+        "longitude": -118.5642063007839,
+        "source": "facebook",
+        "lastUpdated": "2024-02-08 14:36:07"
+    },
+    {
+        "id": 25,
+        "latitude": 34.257856864044165,
+        "longitude": -118.50776634342407,
+        "source": "X",
+        "lastUpdated": "2024-03-16 05:58:49"
+    },
+    {
+        "id": 26,
+        "latitude": 34.21770909357796,
+        "longitude": -118.41620671123083,
+        "source": "facebook",
+        "lastUpdated": "2024-04-11 16:57:44"
+    },
+    {
+        "id": 27,
+        "latitude": 34.297036481116486,
+        "longitude": -118.43596558070949,
+        "source": "user report",
+        "lastUpdated": "2024-04-12 05:29:47"
+    },
+    {
+        "id": 28,
+        "latitude": 34.16608041670981,
+        "longitude": -118.52077494931585,
+        "source": "user report",
+        "lastUpdated": "2024-02-20 14:43:53"
+    },
+    {
+        "id": 29,
+        "latitude": 34.07649919096808,
+        "longitude": -118.45574874958034,
+        "source": "user report",
+        "lastUpdated": "2024-02-15 12:03:34"
+    },
+    {
+        "id": 30,
+        "latitude": 34.31991009000472,
+        "longitude": -118.19581575320304,
+        "source": "X",
+        "lastUpdated": "2024-03-18 09:59:35"
+    },
+    {
+        "id": 31,
+        "latitude": 34.27081455473915,
+        "longitude": -118.44294016900835,
+        "source": "facebook",
+        "lastUpdated": "2024-01-06 07:56:07"
+    },
+    {
+        "id": 32,
+        "latitude": 34.28436917232437,
+        "longitude": -118.42212117937976,
+        "source": "X",
+        "lastUpdated": "2024-02-28 22:49:45"
+    },
+    {
+        "id": 33,
+        "latitude": 34.05085890859757,
+        "longitude": -118.17408702221319,
+        "source": "X",
+        "lastUpdated": "2024-03-13 09:32:12"
+    },
+    {
+        "id": 34,
+        "latitude": 34.09245053439573,
+        "longitude": -118.33564732138905,
+        "source": "user report",
+        "lastUpdated": "2024-04-10 05:33:17"
+    },
+    {
+        "id": 35,
+        "latitude": 34.16109800289244,
+        "longitude": -118.483996401528,
+        "source": "X",
+        "lastUpdated": "2024-03-13 14:48:36"
+    },
+    {
+        "id": 36,
+        "latitude": 34.15114007472946,
+        "longitude": -118.3052030738589,
+        "source": "facebook",
+        "lastUpdated": "2024-03-03 17:54:05"
+    },
+    {
+        "id": 37,
+        "latitude": 34.28554739083457,
+        "longitude": -118.43353227407636,
+        "source": "X",
+        "lastUpdated": "2024-02-06 09:02:12"
+    },
+    {
+        "id": 38,
+        "latitude": 34.28144756418823,
+        "longitude": -118.26855006879053,
+        "source": "facebook",
+        "lastUpdated": "2024-04-09 07:47:05"
+    },
+    {
+        "id": 39,
+        "latitude": 34.20910792987289,
+        "longitude": -118.31979239798304,
+        "source": "X",
+        "lastUpdated": "2024-02-28 00:42:09"
+    },
+    {
+        "id": 40,
+        "latitude": 34.087457520905396,
+        "longitude": -118.4884434985532,
+        "source": "user report",
+        "lastUpdated": "2024-04-03 15:20:17"
+    },
+    {
+        "id": 41,
+        "latitude": 34.07199525902273,
+        "longitude": -118.47877403267107,
+        "source": "facebook",
+        "lastUpdated": "2024-04-15 01:22:20"
+    },
+    {
+        "id": 42,
+        "latitude": 34.12727521408119,
+        "longitude": -118.4702024662102,
+        "source": "user report",
+        "lastUpdated": "2024-02-03 06:39:47"
+    },
+    {
+        "id": 43,
+        "latitude": 34.10117034196302,
+        "longitude": -118.24855119105119,
+        "source": "X",
+        "lastUpdated": "2024-01-08 17:19:50"
+    },
+    {
+        "id": 44,
+        "latitude": 34.293403082374695,
+        "longitude": -118.17705548508506,
+        "source": "X",
+        "lastUpdated": "2024-03-02 17:11:39"
+    },
+    {
+        "id": 45,
+        "latitude": 34.238033848672764,
+        "longitude": -118.54918880035345,
+        "source": "facebook",
+        "lastUpdated": "2024-04-12 00:08:36"
+    },
+    {
+        "id": 46,
+        "latitude": 34.06802393709228,
+        "longitude": -118.38058126644054,
+        "source": "user report",
+        "lastUpdated": "2024-03-27 12:02:59"
+    },
+    {
+        "id": 47,
+        "latitude": 34.164398159334034,
+        "longitude": -118.49426652218366,
+        "source": "facebook",
+        "lastUpdated": "2024-03-25 16:34:20"
+    },
+    {
+        "id": 48,
+        "latitude": 34.143779291770294,
+        "longitude": -118.56552254994808,
+        "source": "facebook",
+        "lastUpdated": "2024-03-18 19:05:34"
+    },
+    {
+        "id": 49,
+        "latitude": 34.14012346823613,
+        "longitude": -118.54222646358659,
+        "source": "X",
+        "lastUpdated": "2024-01-14 04:36:05"
+    },
+    {
+        "id": 50,
+        "latitude": 34.1191780036177,
+        "longitude": -118.20762068666525,
+        "source": "user report",
+        "lastUpdated": "2024-01-30 16:25:09"
+    }
+]
